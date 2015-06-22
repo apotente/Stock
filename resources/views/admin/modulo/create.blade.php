@@ -12,6 +12,7 @@
                          <button type="submit" class="btn btn-default">Crear Modulo</button>
                      {!! Form::close() !!}
                  </div>
+             HOLA MUNDO
             </div>
         </div>
     </div>
